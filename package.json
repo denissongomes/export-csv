@@ -1,0 +1,23 @@
+{
+  "name": "csv-export",
+  "version": "1.0.0",
+  "description": "Exportador CSV",
+  "main": "csv-export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denissongomes/export-csv.git"
+  },
+  "keywords": [
+    "csv",
+    "export"
+  ],
+  "author": "Denisson Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denissongomes/export-csv/issues"
+  },
+  "homepage": "https://github.com/denissongomes/export-csv#readme"
+}
