@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/denissongomes/export-csv/issues"
   },
-  "homepage": "https://github.com/denissongomes/export-csv#readme"
+  "homepage": "https://github.com/denissongomes/export-csv#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
